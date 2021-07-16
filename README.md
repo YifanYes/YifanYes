@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yifanyes&label=Profile%20views&color=0e75b6&style=flat" alt="yifanyes" /> </p>
 
 - 🌱 I’m currently learning **at 4Geeks Academy**
+- 🌱 Also I'm working on two books: one of philosophy (Philosopher's blood) and one epic fantasy (The last breath)
+- ⚡ I am a kendoka, which means I use the way of the sword to become a better person
 
 - 📫 How to reach me **yifanyemontpe@gmail.com**
 
