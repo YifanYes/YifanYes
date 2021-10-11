@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yifan</h1>
-<h3 align="center">A passionate full-stack developer student and trader from Madrid</h3>
+<h3 align="center">A passionate full-stack developer and trader from Madrid</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yifanyes&label=Profile%20views&color=0e75b6&style=flat" alt="yifanyes" /> </p>
 
-- 🌱 I’m currently learning **at 4Geeks Academy**
+- 🌱 I’m currently working **at Encantado de Comerte**
 - 🌱 Also I'm working on two books: one of philosophy (Philosopher's blood) and one epic fantasy (The last breath)
 - ⚡ I am a kendoka, which means I use the way of the sword to become a better person
 
