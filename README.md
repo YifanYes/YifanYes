@@ -1,11 +1,9 @@
 # 💫About Me :
 - 🥕​ I’m currently working at [Encantado de Comerte](https://encantadodecomerte.es/)
 
-- 📖​ I’m continuing learning **smart contract development and backend architecture**
+- 📖​ I’m continuing learning **backend architecture and quantum computing**
 
-- 💡​​ I’m collaborating to create a new agile methodology productivity app at **Nexus**
-
-- 👨‍🏫​ I’m helping students to learn the beauty of programming at [4Geeks Academy](https://4geeksacademy.com/es/inicio)
+- 💡​​ I’m collaborating to create a new agile gamified methodology productivity app at **Nexus**
 
 - 📫 How to reach me **yifanyemontpe@gmail.com**
 
