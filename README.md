@@ -1,9 +1,9 @@
 # 💫About Me :
-- 🥕​ I’m currently working at [Encantado de Comerte](https://encantadodecomerte.es/)
+- 🥕​ I’m currently working at [Encantado de Comerte](https://encantadodecomerte.es/) and [Mogu](https://moguplatform.com/)
 
-- 📖​ I’m continuing learning **backend architecture and quantum computing**
+- 📖​ I’m continuing learning **backend architecture and security analysis**
 
-- 💡​​ I’m collaborating to create a new agile gamified methodology productivity app at **Nexus**
+- 💡​​ I’m collaborating to create a new productivity frameword at **Mind Forgers**
 
 - 📫 How to reach me **yifanyemontpe@gmail.com**
 
