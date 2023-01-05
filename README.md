@@ -1,9 +1,9 @@
 # 💫About Me :
-- 🥕​ I’m currently working at [Encantado de Comerte](https://encantadodecomerte.es/) and [Mogu](https://moguplatform.com/)
+- 🗺️​ I’m currently working at [Mogu](https://moguplatform.com/) as a full stack developer
 
 - 📖​ I’m continuing learning **backend architecture and security analysis**
 
-- 💡​​ I’m collaborating to create a new productivity frameword at **Mind Forgers**
+- 💡​ I’m creating a new personal development framework at [Mind Forgers](https://www.instagram.com/mind__forgers/)
 
 - 📫 How to reach me **yifanyemontpe@gmail.com**
 
