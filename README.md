@@ -1,5 +1,5 @@
 # 💫About Me :
-- 🗺️​ I’m currently working at [Mogu](https://moguplatform.com/) as a full stack developer.
+- 🗺️​ I’m currently working at [Mogu](https://moguplatform.com/) as a software engineer.
 
 - 📖​ I continue learning about **software architecture and system design**.
 
