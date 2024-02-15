@@ -1,11 +1,11 @@
 # 💫About Me :
 - 🗺️​ I’m currently working at [Mogu](https://moguplatform.com/) as a software engineer.
 
-- 📖​ I continue learning about **software architecture and system design**.
+- 📖​ I'm currently learning software architecture, system design and studying Google Cloud.
 
 - 📫 How to reach me **yifanyemontpe@gmail.com**
 
-- ⚡ Fun fact **I'm obsessed with Brandon Sanderson's novels**
+- ⚡ Fun fact: I'm obsessed with Brandon Sanderson's novels, in particular the Stormlight Archive.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yifan-ye-zhang-8042171b2/) 
