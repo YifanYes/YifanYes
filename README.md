@@ -1,7 +1,7 @@
 # 💫About Me :
-- 🗺️​ I’m currently working at [Mogu](https://moguplatform.com/) as a software engineer.
+- 🗺️​ I’m currently working at [Nuela](https://www.nuela.app/) as a software engineer.
 
-- 📖​ I'm currently learning software architecture, system design and studying Google Cloud.
+- 📖​ I'm currently learning machine learning and system design.
 
 - 📫 How to reach me **yifanyemontpe@gmail.com**
 
