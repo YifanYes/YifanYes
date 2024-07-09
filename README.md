@@ -1,5 +1,4 @@
 # 💫About Me :
-- 🗺️​ I’m currently working at [Nuela](https://www.nuela.app/) as a software engineer.
 
 - 📖​ I'm currently learning machine learning and system design.
 
