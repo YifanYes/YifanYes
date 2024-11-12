@@ -1,6 +1,6 @@
 # 💫About Me :
 
-- 📖​ I'm currently learning machine learning and system design.
+- 📖​ I'm currently learning event-driven architectures in AWS.
 
 - 📫 How to reach me **yifanyemontpe@gmail.com**
 
