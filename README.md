@@ -1,8 +1,8 @@
 # 💫 About Me
 
-- 👨‍💻 I've been working as a software engineer for **4 years**, and I currently work at **Signe**.  
-- 📖 I'm currently learning **data structures and algorithms**.  
-- 🎮 I'm building an **RPG-gamified productivity platform**.  
+- 👨‍💻 I've been working as a software engineer for **5 years**, and I currently work at **Signe**.  
+- 📖 I'm currently learning data structures and algorithms, game design and game development.  
+- 🎮 I'm building Arq, an RPG-gamified productivity platform set in an apocalyptic setting where users' actions drive the story. 
 - ⚡ Fun fact: I'm obsessed with Brandon Sanderson's novels, especially *The Stormlight Archive*.  
 - 📫 Reach me at **yifanyemontpe@gmail.com**
 
