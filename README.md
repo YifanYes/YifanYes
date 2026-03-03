@@ -1,9 +1,9 @@
 # 💫 About Me
 
-- 👨‍💻 I've been working as a software engineer for **5 years**, and I currently work at **Signe**.  
-- 📖 I'm currently learning data structures and algorithms, game design and game development.  
-- 🎮 I'm building Arq, an RPG-gamified productivity platform set in an apocalyptic setting where users' actions drive the story. 
-- ⚡ Fun fact: I'm obsessed with Brandon Sanderson's novels, especially *The Stormlight Archive*.  
+- 👨‍💻 I've been working as a software engineer for more than **5 years**. I currently work at **Signe**.  
+- 📖 I'm currently learning agentic development, product design and sales.  
+- 🎮 I'm building [Borealis](https://borealis-labs.com/), a next-gen B2B software consultancy agency. 
+- ⚡ Fun fact: I'm obsessed with Brandon Sanderson's novels, especially *The Stormlight Archive*. Life before death, strength before weakness, journey before destination. 
 - 📫 Reach me at **yifanyemontpe@gmail.com**
 
 ## 🌐Socials
