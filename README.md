@@ -2,7 +2,7 @@
 
 - 👨‍💻 I've been working as a software engineer for more than **5 years**. I currently work at **Signe**.  
 - 📖 I'm currently learning agentic development, product design and sales.  
-- 🎮 I'm building [Borealis](https://borealis-labs.com/), a next-gen B2B software consultancy agency. 
+- 🎮 I'm building [Spanish Advanced Drones](https://www.spanish-advanced-drones.com/es), my online drone store. 
 - ⚡ Fun fact: I'm obsessed with Brandon Sanderson's novels, especially *The Stormlight Archive*. Life before death, strength before weakness, journey before destination. 
 - 📫 Reach me at **yifanyemontpe@gmail.com**
 
