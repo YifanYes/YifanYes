@@ -1,17 +1,26 @@
-# 💫 About Me
+# Hi! I'm Yifan 👋
 
-- 👨‍💻 I've been working as a software engineer for more than **5 years**. I currently work at **Signe**.  
-- 📖 I'm currently learning agentic development, product design and sales.  
-- 🎮 I'm building [Spanish Advanced Drones](https://www.spanish-advanced-drones.com/es), my online drone store. 
-- ⚡ Fun fact: I'm obsessed with Brandon Sanderson's novels, especially *The Stormlight Archive*. Life before death, strength before weakness, journey before destination. 
-- 📫 Reach me at **yifanyemontpe@gmail.com**
+Software engineer with 5+ years of experience, currently shipping code at [Signe](https://www.signe.es/). I build at the intersection of **systems engineering**, **product design**, and **automation**. I care about clean architecture, developer experience, and shipping products that feel inevitable.
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yifan-ye-zhang-8042171b2/) 
+## 🔭 What I'm Working On
+- **[Spanish Advanced Drones](https://www.spanish-advanced-drones.com/es)** — My online drone store.
+- **Covenant** — A gamified productivity app themed around the biblical apocalypse.
 
-# 💻Tech Stack
+## 🌱 Currently Learning
+Agentic development · Product design · Sales
 
-### Specialized In
+## 🥋 Beyond the Code
+Martial arts, philosophy, finance, history, novels, videogames, anime, modelism, science, Digimon, and Gundam.  
+Currently playing **Helldivers 2**.
+
+> ⚡ *Life before death, strength before weakness, journey before destination.*  
+> — Obsessed with Brandon Sanderson's **The Stormlight Archive**
+
+## 📫 Let's Connect
+- **Email**: yifanyemontpe@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yifan-ye-zhang-8042171b2/) 
+
+## 💻Tech Stack
 
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -33,23 +42,6 @@
 **Infrastructure:**  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
----
+### Also Comfortable With
+Vue.js · React Native · Laravel · Python · GCP · MongoDB
 
-### Other Technologies I’ve Worked With
-
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![GCP](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-# 📊GitHub Stats :
-![](https://github-readme-streak-stats.herokuapp.com/?user=YifanYes&theme=dark&hide_border=true)<br/>
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YifanYes&theme=chalk&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
