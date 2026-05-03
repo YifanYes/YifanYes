@@ -1,6 +1,6 @@
 # Hi! I'm Yifan 👋
 
-Software engineer with 5+ years of experience, currently shipping code at [Signe](https://www.signe.es/). I build at the intersection of **systems engineering**, **product design**, and **automation**. I care about clean architecture, developer experience, and shipping products that feel inevitable.
+Software engineer with 5+ years of experience, currently shipping code at [Signe](https://www.signe.es/). I build at the intersection of **product design**, **systems engineering**, and **automation**. I care about clean architecture, developer experience, and shipping products that feel inevitable.
 
 ## 🔭 What I'm Working On
 - **[Spanish Advanced Drones](https://www.spanish-advanced-drones.com/es)** — My online drone store.
