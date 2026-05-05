@@ -4,7 +4,7 @@ Software engineer with 5+ years of experience, currently shipping code at [Signe
 
 ## 🔭 What I'm Working On
 - **[Spanish Advanced Drones](https://www.spanish-advanced-drones.com/es)** — My online drone store.
-- **Covenant** — A gamified productivity app themed around the biblical apocalypse.
+- **[Covenant](https://covenantrpg.com/)** — A gamified productivity app themed around the biblical apocalypse.
 
 ## 🌱 Currently Learning
 Agentic development · Product design · Sales
