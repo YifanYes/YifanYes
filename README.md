@@ -3,11 +3,10 @@
 Software engineer with 5+ years of experience, currently shipping code at [Signe](https://www.signe.es/). I build at the intersection of **product design**, **systems engineering**, and **automation**. I care about clean architecture, developer experience, and shipping products that feel inevitable.
 
 ## 🔭 What I'm Working On
-- **[Covenant](https://covenantrpg.com/)** — A gamified productivity app themed around the biblical apocalypse.
 - **[Spanish Advanced Drones](https://www.spanish-advanced-drones.com/es)** — My online drone store.
 
 ## 🌱 Currently Learning
-Agentic development · Product design · Sales
+Designing Data-Intensive Applications · Product design · UX
 
 ## 🥋 Beyond the Code
 Martial arts, philosophy, finance, history, novels, videogames, anime, modelism, science, Digimon, and Gundam.  
